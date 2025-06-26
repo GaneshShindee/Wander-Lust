@@ -81,5 +81,3 @@ GitHub: https://github.com/GaneshShindee
 
 If you have any feedback, please reach out to us at ganeshshinde0100@gmail.com
 
-# Wander-lust
-# Wander-Lust
